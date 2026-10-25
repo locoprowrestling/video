@@ -1,3 +1,15 @@
+# LoCo Pro Video, itch store theme (2026-10-25)
+
+Current direction: the site matches the LoCo Pro Video itch store (https://locoprowrestling.itch.io/) so visitors move between the two without a change in look.
+
+Tokens, read from the live itch theme on 2026-10-25: page purple #760cf5, panel #881eff, deep section #402b59, text #ffffff, links #f8f136 (bold, underlined), buttons #174f2a with #346c47 edge, square corners, system sans (Helvetica Neue, Arial) at weight 700 for headings. Product art and video thumbnails sit on near-black #0b0f14.
+
+Hero: the approved green and gold filmstrip banner (assets/itch/banner.jpg, itch image 30738240, the same banner on every itch page), then the store bio line and the Slave 17 reel button.
+
+The previous cinema-portfolio files are preserved in verification/redesign/before-itch-theme-2026-10-25. The earlier direction below is history.
+
+---
+
 # LoCo Pro Video — cinema portfolio direction
 
 Visual thesis: an editorial film portfolio, with action footage as the dominant visual, the original green-and-yellow title-card filmstrip logo and condensed cinema type and a warm paper canvas.
