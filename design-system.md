@@ -10,7 +10,7 @@ The previous cinema-portfolio files are preserved in verification/redesign/befor
 
 ---
 
-# LoCo Pro Video — cinema portfolio direction
+# LoCo Pro Video: earlier cinema portfolio direction (retired 2026-10-25)
 
 Visual thesis: an editorial film portfolio, with action footage as the dominant visual, the original green-and-yellow title-card filmstrip logo and condensed cinema type and a warm paper canvas.
 
